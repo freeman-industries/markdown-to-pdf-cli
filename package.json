@@ -1,0 +1,16 @@
+{
+  "name": "InstallationInstructions",
+  "version": "0.0.1",
+  "description": "automated installation instructions",
+  "main": "main.js",
+  "directories": {},
+  "scripts": {},
+  "author": "Freeman",
+  "devDependencies": {
+    "duplexer": "^0.1.1",
+    "markdown-pdf": "^5.2.0",
+    "split": "^0.3.3",
+    "through": "^2.3.7"
+  },
+  "dependencies": {}
+}
