@@ -2,9 +2,9 @@
 
 This is a nodejs app (super simple) with a whole bunch of code brought together from different sources on the internet.
 
-I made it so we could automate for my business Now Native (nownative.com), which produced advertising widgets.
+Nabil made it so he could automate documents for his last business (💀), and we use it extensively in-house now.
 
-Lots of sites, not enough time to manually make them instructions.
+Lots of contracts, not enough time. 😎
 
 Enjoy!
 
